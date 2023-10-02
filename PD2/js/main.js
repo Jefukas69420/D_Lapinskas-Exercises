@@ -1,1 +1,1 @@
-alert("Im external JavaScript!")
+alert("I'm external JavaScript!")
