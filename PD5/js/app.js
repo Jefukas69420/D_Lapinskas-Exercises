@@ -1,6 +1,6 @@
 let skaicius = 12;
 console.log(skaicius)
-let didelisskaicius = 9007199254740991;
+let didelisskaicius = 90n;
 console.log(didelisskaicius)
 let siulas = "sw";
 console.log(siulas)
